@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "912904632709",
+    "project_id": "figma-study",
+    "storage_bucket": "figma-study.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912904632709:android:fc20063ab95dc3e0942cec",
+        "android_client_info": {
+          "package_name": "com.example.figma_study"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzFa2VgxBer8TLWkX0qqW_RVWRN1v3BjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
